@@ -1,18 +1,35 @@
-1. Identificação do Projeto
-Nome do projeto: 
+Identificação do Projeto
+
+Nome do projeto: (a definir)
+
 Equipe:
+João Vitor Bartko, Gustavo Schenkel, Gustavo Ortigara, Juan Lovato, João Paulo Bezerra
+
 Data:
-Descrição breve do projeto.
-2. Problema a Ser Resolvido
+30/03/2026
+
+Trata-se de uma plataforma integrada de transporte escolar inteligente que combina um sistema embarcado na van, aplicativo para responsáveis e painel de gestão,
+com foco em controle de presença por biometria, roteirização dinâmica baseada nos alunos presentes, rastreamento em tempo real e gestão financeira automatizada a
+partir de dados de deslocamento. A solução centraliza e otimiza toda a operação do transporte, aumentando a segurança, previsibilidade e eficiência, ao mesmo tempo 
+em que oferece transparência para os pais e uma experiência mais organizada e interativa para os usuários.
+
+Problema a Ser Resolvido
+
 Descreva claramente o problema.
 Quem é afetado?
 Por que é relevante?
-3. Objetivo do Sistema
+
+Objetivo do Sistema
+
 O que o software pretende resolver?
 Qual resultado esperado?
-4. Público-Alvo
+
+Público-Alvo
+
 Quem utilizará o sistema?
 Perfil dos usuanos.
-5. Descrição da Solução
+
+Descrição da Solução
+
 Explique como o sistema funcionará.
 Quais funcionalidades principais.
