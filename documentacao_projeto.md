@@ -1,6 +1,6 @@
 # Identificação do Projeto
 
-**Nome do projeto:** (a definir)
+**Nome do projeto:** VanGo
 
 **Equipe:**  
 João Vitor Bartko, Gustavo Schenkel, Gustavo Ortigara, Juan Lovato, João Paulo Bezerra
