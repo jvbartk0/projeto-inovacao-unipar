@@ -1,19 +1,20 @@
 # Sumário
 
-1. Identificação do Projeto  
-2. Problema a Ser Resolvido  
-3. Objetivo do Sistema  
-4. Público-Alvo  
-5. Descrição da Solução  
-6. Funcionalidades  
-   6.1 Controle de presença  
-   6.2 Roteirização inteligente  
-   6.3 Rastreamento  
-   6.4 Notificações  
-   6.5 Controle financeiro  
-   6.6 Playlist colaborativa  
-   6.7 Sistema embarcado (multimídia)  
+1. [Identificação do Projeto](#identificação-do-projeto)  
+2. [Problema a Ser Resolvido](#problema-a-ser-resolvido)  
+3. [Objetivo do Sistema](#objetivo-do-sistema)  
+4. [Público-Alvo](#público-alvo)  
+5. [Descrição da Solução](#descrição-da-solução)  
+6. [Funcionalidades](#funcionalidades)  
+   6.1 [Controle de presença](#11-controle-de-presença)  
+   6.2 [Roteirização inteligente](#12-roteirização-inteligente)  
+   6.3 [Rastreamento](#13-rastreamento)  
+   6.4 [Notificações](#14-notificações)  
+   6.5 [Controle financeiro](#15-controle-financeiro)  
+   6.6 [Playlist colaborativa](#16-playlist-colaborativa)  
+   6.7 [Sistema embarcado (multimídia)](#17-sistema-embarcado-multimídia)  
 
+---
 
 # Identificação do Projeto
 
@@ -69,41 +70,43 @@ Para alunos que desejam maior interatividade durante o trajeto da van.
 
 Explique como o sistema funcionará.
 
-## 1. FUNCIONALIDADES DEFINIDAS
+---
 
-### 1.1 Controle de presença
+# Funcionalidades
+
+## 1.1 Controle de presença
 - biometria digital (evita fraude de QR Code)  
 - identificação automática do aluno  
 - registro de embarque e ausência  
 
-### 1.2 Roteirização inteligente
+## 1.2 Roteirização inteligente
 - cálculo de rota com base nos alunos presentes  
 - atualização dinâmica em tempo real  
 - otimização de percurso  
 
-### 1.3 Rastreamento
+## 1.3 Rastreamento
 - localização da van em tempo real  
 - visualização para os pais  
 - histórico de deslocamento  
 
-### 1.4 Notificações
+## 1.4 Notificações
 - embarque confirmado  
 - ausência detectada  
 - chegada no destino  
 - alerta de alunos faltantes antes da saída  
 
-### 1.5 Controle financeiro
+## 1.5 Controle financeiro
 - cálculo de km rodado  
 - estimativa de consumo de combustível  
 - custo por aluno  
 - base para definição de mensalidade  
 
-### 1.6 Playlist colaborativa
+## 1.6 Playlist colaborativa
 - alunos podem sugerir músicas  
 - sistema organiza fila de reprodução  
 - integração com serviço de streaming  
 
-### 1.7 Sistema embarcado (multimídia)
+## 1.7 Sistema embarcado (multimídia)
 - interface do motorista  
 - controle de rota  
 - leitura biométrica  
