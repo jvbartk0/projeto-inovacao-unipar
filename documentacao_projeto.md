@@ -1,3 +1,20 @@
+# Sumário
+
+1. Identificação do Projeto  
+2. Problema a Ser Resolvido  
+3. Objetivo do Sistema  
+4. Público-Alvo  
+5. Descrição da Solução  
+6. Funcionalidades  
+   6.1 Controle de presença  
+   6.2 Roteirização inteligente  
+   6.3 Rastreamento  
+   6.4 Notificações  
+   6.5 Controle financeiro  
+   6.6 Playlist colaborativa  
+   6.7 Sistema embarcado (multimídia)  
+
+
 # Identificação do Projeto
 
 **Nome do projeto:** VanGo
